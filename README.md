@@ -1,4 +1,4 @@
-Accumulo v1.4.4 By_Vagrant
+Accumulo v1.4.4 By Vagrant
 =======================
 
 A three node Accumulo cluster running on Ubuntu Precise (12.04). The instance name is 'instance'. The 
